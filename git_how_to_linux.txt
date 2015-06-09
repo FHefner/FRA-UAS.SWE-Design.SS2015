@@ -1,0 +1,20 @@
+1. Set-up your Git - username and E - Mail:
+	git config --global user.name "Username"
+	git config --global user.email "mail@example.com"
+2. Clone a existing Git repository to your local storage:
+	cd <DesiredDestination>
+	git clone https://github.com/...
+3. Copy all files you want to upload inside the downloaded repository
+4. Change into that directory
+5. Add all the files you just copied to the next commit:
+	git add . (for current directory) or git add * (for all files)
+6. Check, if git recognized everything the way you want:
+	git status
+7. If everything is ok, do the commit:
+	git commit
+8. An Editor (nano or vim) will launch and you should define a good commit message, something like: 
+	"I did update <this_and_that>." or "I created <this_and_that> new."
+9. Finaly do the upload:
+	git push
+10. If you later want to keep your local folder up-to-date, use:
+	git pull
