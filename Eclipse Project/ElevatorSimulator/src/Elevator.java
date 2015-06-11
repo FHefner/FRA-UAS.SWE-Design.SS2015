@@ -32,7 +32,7 @@ public class Elevator {
 	public Elevator() {
 		this.fl1 = new Floor(0);
 		this.fl2 = new Floor(1);
-		setBell(new Bell("src/res/Airplane-ding-sound.wav"));
+	    setBell(new Bell("res/Airplane-ding-sound.wav"));
 		upstairs = false;
 		passenger = null;
 		passengerHistory = new LinkedList<Person>();
