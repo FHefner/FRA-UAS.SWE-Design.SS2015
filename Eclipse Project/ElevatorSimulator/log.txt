@@ -1,0 +1,1823 @@
+==============================================Timestamp: Sat Jun 27 13:19:04 CEST 2015Current Time: 1 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 1 seconds
+Random number T1: 17
+Random number T2: 5
+============================================================================================Timestamp: Sat Jun 27 13:19:05 CEST 2015Current Time: 1 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 1 seconds
+Random number T1: 17
+Random number T2: 5
+============================================================================================Timestamp: Sat Jun 27 13:19:05 CEST 2015Current Time: 2 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 2 seconds
+Random number T1: 17
+Random number T2: 5
+============================================================================================Timestamp: Sat Jun 27 13:19:06 CEST 2015Current Time: 2 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 2 seconds
+Random number T1: 17
+Random number T2: 5
+============================================================================================Timestamp: Sat Jun 27 13:19:06 CEST 2015Current Time: 3 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 3 seconds
+Random number T1: 17
+Random number T2: 5
+============================================================================================Timestamp: Sat Jun 27 13:19:07 CEST 2015Current Time: 3 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 3 seconds
+Random number T1: 17
+Random number T2: 5
+============================================================================================Timestamp: Sat Jun 27 13:19:07 CEST 2015Current Time: 4 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 4 seconds
+Random number T1: 17
+Random number T2: 5
+============================================================================================Timestamp: Sat Jun 27 13:19:08 CEST 2015Current Time: 4 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 4 seconds
+Random number T1: 17
+Random number T2: 5
+============================================================================================Timestamp: Sat Jun 27 13:39:32 CEST 2015Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 7
+Random number T2: 18
+============================================================================================Timestamp: Sat Jun 27 13:39:37 CEST 2015Current Time: 10 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 10 seconds
+Random number T1: 7
+Random number T2: 18
+============================================================================================Timestamp: Sat Jun 27 13:39:42 CEST 2015Current Time: 15 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 15 seconds
+Random number T1: 7
+Random number T2: 18
+============================================================================================Timestamp: Sat Jun 27 13:39:47 CEST 2015Current Time: 20 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 20 seconds
+Random number T1: 7
+Random number T2: 18
+============================================================================================Timestamp: Sat Jun 27 13:39:52 CEST 2015Current Time: 25 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 25 seconds
+Random number T1: 7
+Random number T2: 18
+============================================================================================
+Timestamp: Sat Jun 27 13:46:43 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 5
+Random number T2: 18
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:46:48 CEST 2015
+Current Time: 10 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 10 seconds
+Random number T1: 5
+Random number T2: 18
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:46:53 CEST 2015
+Current Time: 15 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 13 seconds
+Random number T1: 5
+Random number T2: 29
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:46:58 CEST 2015
+Current Time: 20 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 18 seconds
+Random number T1: 5
+Random number T2: 29
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:47:03 CEST 2015
+Current Time: 25 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 23 seconds
+Random number T1: 5
+Random number T2: 29
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:47:08 CEST 2015
+Current Time: 30 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 28 seconds
+Random number T1: 5
+Random number T2: 29
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:47:13 CEST 2015
+Current Time: 35 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 33 seconds
+Random number T1: 5
+Random number T2: 29
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:47:18 CEST 2015
+Current Time: 40 seconds
+Current Floor: 0
+Current Passenger: Person 1
+Passenger History: [Hans] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 3.0 seconds
+Total driving time: 3 seconds
+Total idle time: 37 seconds
+Random number T1: 13
+Random number T2: 29
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:47:23 CEST 2015
+Current Time: 45 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Person 1] => Amount: 2
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 42 seconds
+Random number T1: 13
+Random number T2: 29
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:47:28 CEST 2015
+Current Time: 50 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Person 1] => Amount: 2
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 47 seconds
+Random number T1: 13
+Random number T2: 29
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:49:23 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 14
+Random number T2: 5
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:49:28 CEST 2015
+Current Time: 10 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 10 seconds
+Random number T1: 14
+Random number T2: 5
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:49:33 CEST 2015
+Current Time: 15 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 15 seconds
+Random number T1: 14
+Random number T2: 5
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:49:38 CEST 2015
+Current Time: 20 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 20 seconds
+Random number T1: 14
+Random number T2: 5
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:49:43 CEST 2015
+Current Time: 25 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 25 seconds
+Random number T1: 14
+Random number T2: 5
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:50:47 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 16
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:50:52 CEST 2015
+Current Time: 10 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 10 seconds
+Random number T1: 16
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:50:57 CEST 2015
+Current Time: 15 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 15 seconds
+Random number T1: 16
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:51:15 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 8
+Random number T2: 13
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:51:40 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:51:45 CEST 2015
+Current Time: 10 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 10 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:51:50 CEST 2015
+Current Time: 15 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 15 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:51:55 CEST 2015
+Current Time: 20 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 20 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:00 CEST 2015
+Current Time: 25 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 25 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:05 CEST 2015
+Current Time: 30 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 30 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:10 CEST 2015
+Current Time: 35 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 35 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:15 CEST 2015
+Current Time: 40 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 40 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:20 CEST 2015
+Current Time: 45 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 45 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:25 CEST 2015
+Current Time: 50 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 50 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:30 CEST 2015
+Current Time: 55 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 55 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:35 CEST 2015
+Current Time: 60 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 60 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:40 CEST 2015
+Current Time: 65 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 65 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:45 CEST 2015
+Current Time: 70 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 70 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:50 CEST 2015
+Current Time: 75 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 75 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:52:55 CEST 2015
+Current Time: 80 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 80 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:53:00 CEST 2015
+Current Time: 85 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 85 seconds
+Random number T1: 19
+Random number T2: 12
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:53:37 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 8
+Random number T2: 10
+==============================================
+==============================================
+Timestamp: Sat Jun 27 13:53:42 CEST 2015
+Current Time: 10 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 10 seconds
+Random number T1: 8
+Random number T2: 10
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:08:19 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:08:24 CEST 2015
+Current Time: 10 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 10 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:08:29 CEST 2015
+Current Time: 15 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 15 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:08:34 CEST 2015
+Current Time: 20 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 20 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:08:39 CEST 2015
+Current Time: 25 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 25 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:08:44 CEST 2015
+Current Time: 30 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 30 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:08:49 CEST 2015
+Current Time: 35 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 35 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:08:54 CEST 2015
+Current Time: 40 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 40 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:08:59 CEST 2015
+Current Time: 45 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 45 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:04 CEST 2015
+Current Time: 50 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 50 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:09 CEST 2015
+Current Time: 55 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 55 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:14 CEST 2015
+Current Time: 60 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 60 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:19 CEST 2015
+Current Time: 65 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 65 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:24 CEST 2015
+Current Time: 70 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 70 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:29 CEST 2015
+Current Time: 75 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 75 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:34 CEST 2015
+Current Time: 80 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 80 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:39 CEST 2015
+Current Time: 85 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 85 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:44 CEST 2015
+Current Time: 90 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 90 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:49 CEST 2015
+Current Time: 95 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 95 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:54 CEST 2015
+Current Time: 100 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 100 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:09:59 CEST 2015
+Current Time: 105 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 105 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:04 CEST 2015
+Current Time: 110 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 110 seconds
+Random number T1: 6
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:09 CEST 2015
+Current Time: 115 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.0 seconds
+Total driving time: 1 seconds
+Total idle time: 114 seconds
+Random number T1: 6
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:14 CEST 2015
+Current Time: 120 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.0 seconds
+Total driving time: 1 seconds
+Total idle time: 119 seconds
+Random number T1: 6
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:19 CEST 2015
+Current Time: 125 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 122 seconds
+Random number T1: 26
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:24 CEST 2015
+Current Time: 130 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 127 seconds
+Random number T1: 26
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:29 CEST 2015
+Current Time: 135 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 132 seconds
+Random number T1: 26
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:34 CEST 2015
+Current Time: 140 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 137 seconds
+Random number T1: 26
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:39 CEST 2015
+Current Time: 145 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 142 seconds
+Random number T1: 26
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:44 CEST 2015
+Current Time: 150 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 147 seconds
+Random number T1: 26
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:49 CEST 2015
+Current Time: 155 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 152 seconds
+Random number T1: 26
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:54 CEST 2015
+Current Time: 160 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 157 seconds
+Random number T1: 26
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:10:59 CEST 2015
+Current Time: 165 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 162 seconds
+Random number T1: 26
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:11:04 CEST 2015
+Current Time: 170 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 167 seconds
+Random number T1: 26
+Random number T2: 16
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:48:34 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 17
+Random number T2: 7
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:48:39 CEST 2015
+Current Time: 10 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 10 seconds
+Random number T1: 17
+Random number T2: 7
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:48:44 CEST 2015
+Current Time: 15 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Person 0] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 13 seconds
+Random number T1: 17
+Random number T2: 24
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:48:49 CEST 2015
+Current Time: 20 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Person 0] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 18 seconds
+Random number T1: 17
+Random number T2: 24
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:48:54 CEST 2015
+Current Time: 25 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Person 0] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 23 seconds
+Random number T1: 17
+Random number T2: 24
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:48:59 CEST 2015
+Current Time: 30 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Person 0] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 28 seconds
+Random number T1: 17
+Random number T2: 24
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:49:04 CEST 2015
+Current Time: 35 seconds
+Current Floor: 0
+Current Passenger: Felix
+Passenger History: [Person 0] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 4.0 seconds
+Total driving time: 4 seconds
+Total idle time: 31 seconds
+Random number T1: 23
+Random number T2: 24
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:49:09 CEST 2015
+Current Time: 40 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Person 0, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 4 seconds
+Total idle time: 36 seconds
+Random number T1: 23
+Random number T2: 24
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:49:14 CEST 2015
+Current Time: 45 seconds
+Current Floor: 1
+Current Passenger: Peter
+Passenger History: [Person 0, Felix] => Amount: 2
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 5.0 seconds
+Total driving time: 7 seconds
+Total idle time: 38 seconds
+Random number T1: 23
+Random number T2: 37
+==============================================
+==============================================
+Timestamp: Sat Jun 27 14:49:19 CEST 2015
+Current Time: 50 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Person 0, Felix, Peter] => Amount: 3
+Passenger downstairs: [Felix] => Amount: 1
+Passengers upstairs: [Person 0, Peter] => Amount: 2
+Average wait time: 1.66 seconds
+Total driving time: 7 seconds
+Total idle time: 43 seconds
+Random number T1: 23
+Random number T2: 37
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:02:38 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 20
+Random number T2: 18
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:02:43 CEST 2015
+Current Time: 10 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 10 seconds
+Random number T1: 20
+Random number T2: 18
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:07:08 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 13
+Random number T2: 8
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:07:13 CEST 2015
+Current Time: 10 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Test] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Test] => Amount: 1
+Average wait time: 1.0 seconds
+Total driving time: 1 seconds
+Total idle time: 9 seconds
+Random number T1: 13
+Random number T2: 19
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:07:18 CEST 2015
+Current Time: 15 seconds
+Current Floor: 0
+Current Passenger: Person 1
+Passenger History: [Test] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Test] => Amount: 1
+Average wait time: 4.0 seconds
+Total driving time: 4 seconds
+Total idle time: 11 seconds
+Random number T1: 32
+Random number T2: 19
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:07:23 CEST 2015
+Current Time: 20 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Test, Person 1] => Amount: 2
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Test] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 4 seconds
+Total idle time: 16 seconds
+Random number T1: 32
+Random number T2: 19
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:07:28 CEST 2015
+Current Time: 25 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Test, Person 1] => Amount: 2
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Test] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 4 seconds
+Total idle time: 21 seconds
+Random number T1: 32
+Random number T2: 19
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:07:33 CEST 2015
+Current Time: 30 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Test, Person 1] => Amount: 2
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Test] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 4 seconds
+Total idle time: 26 seconds
+Random number T1: 32
+Random number T2: 19
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:07:38 CEST 2015
+Current Time: 35 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Test, Person 1] => Amount: 2
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Test] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 4 seconds
+Total idle time: 31 seconds
+Random number T1: 32
+Random number T2: 19
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:10:06 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 17
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:10:11 CEST 2015
+Current Time: 10 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 10 seconds
+Random number T1: 17
+Random number T2: 6
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:10:44 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 17
+Random number T2: 19
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:10:49 CEST 2015
+Current Time: 10 seconds
+Current Floor: 1
+Current Passenger: Person 0
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 8 seconds
+Random number T1: 17
+Random number T2: 28
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:10:54 CEST 2015
+Current Time: 15 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Person 0] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 13 seconds
+Random number T1: 17
+Random number T2: 28
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:10:59 CEST 2015
+Current Time: 20 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Person 0, Person 1] => Amount: 2
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 4 seconds
+Total idle time: 16 seconds
+Random number T1: 28
+Random number T2: 28
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:11:04 CEST 2015
+Current Time: 25 seconds
+Current Floor: 1
+Current Passenger: Peter
+Passenger History: [Person 0, Person 1] => Amount: 2
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 6.0 seconds
+Total driving time: 8 seconds
+Total idle time: 17 seconds
+Random number T1: 28
+Random number T2: 48
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:11:09 CEST 2015
+Current Time: 30 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Person 0, Person 1, Peter] => Amount: 3
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Person 0, Peter] => Amount: 2
+Average wait time: 2.0 seconds
+Total driving time: 8 seconds
+Total idle time: 22 seconds
+Random number T1: 28
+Random number T2: 48
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:13:50 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 13
+Random number T2: 14
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:13:55 CEST 2015
+Current Time: 10 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 3.0 seconds
+Total driving time: 3 seconds
+Total idle time: 7 seconds
+Random number T1: 13
+Random number T2: 30
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:14:00 CEST 2015
+Current Time: 15 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Person 1] => Amount: 2
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 2.5 seconds
+Total driving time: 5 seconds
+Total idle time: 10 seconds
+Random number T1: 23
+Random number T2: 30
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:14:05 CEST 2015
+Current Time: 20 seconds
+Current Floor: 1
+Current Passenger: Person 0
+Passenger History: [Hans, Person 1] => Amount: 2
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 5.5 seconds
+Total driving time: 8 seconds
+Total idle time: 12 seconds
+Random number T1: 23
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:14:10 CEST 2015
+Current Time: 25 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans, Person 1, Person 0] => Amount: 3
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Hans, Person 0] => Amount: 2
+Average wait time: 1.83 seconds
+Total driving time: 8 seconds
+Total idle time: 17 seconds
+Random number T1: 23
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:14:15 CEST 2015
+Current Time: 30 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans, Person 1, Person 0] => Amount: 3
+Passenger downstairs: [Person 1] => Amount: 1
+Passengers upstairs: [Hans, Person 0] => Amount: 2
+Average wait time: 1.83 seconds
+Total driving time: 8 seconds
+Total idle time: 22 seconds
+Random number T1: 23
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:14:45 CEST 2015
+Current Time: 5 seconds
+Current Floor: 1
+Current Passenger: Hans
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 3 seconds
+Random number T1: 5
+Random number T2: 25
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:14:50 CEST 2015
+Current Time: 10 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 2.0 seconds
+Total driving time: 2 seconds
+Total idle time: 8 seconds
+Random number T1: 5
+Random number T2: 25
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:14:55 CEST 2015
+Current Time: 15 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: [Hans, Maria] => Amount: 2
+Passenger downstairs: [Maria] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 1.5 seconds
+Total driving time: 3 seconds
+Total idle time: 12 seconds
+Random number T1: 16
+Random number T2: 25
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:15:00 CEST 2015
+Current Time: 20 seconds
+Current Floor: 1
+Current Passenger: Felix
+Passenger History: [Hans, Maria] => Amount: 2
+Passenger downstairs: [Maria] => Amount: 1
+Passengers upstairs: [Hans] => Amount: 1
+Average wait time: 4.5 seconds
+Total driving time: 6 seconds
+Total idle time: 14 seconds
+Random number T1: 16
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:15:05 CEST 2015
+Current Time: 25 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans, Maria, Felix] => Amount: 3
+Passenger downstairs: [Maria] => Amount: 1
+Passengers upstairs: [Hans, Felix] => Amount: 2
+Average wait time: 1.5 seconds
+Total driving time: 6 seconds
+Total idle time: 19 seconds
+Random number T1: 16
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:15:10 CEST 2015
+Current Time: 30 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans, Maria, Felix] => Amount: 3
+Passenger downstairs: [Maria] => Amount: 1
+Passengers upstairs: [Hans, Felix] => Amount: 2
+Average wait time: 1.5 seconds
+Total driving time: 6 seconds
+Total idle time: 24 seconds
+Random number T1: 16
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:15:15 CEST 2015
+Current Time: 35 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans, Maria, Felix] => Amount: 3
+Passenger downstairs: [Maria] => Amount: 1
+Passengers upstairs: [Hans, Felix] => Amount: 2
+Average wait time: 1.5 seconds
+Total driving time: 6 seconds
+Total idle time: 29 seconds
+Random number T1: 16
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:15:20 CEST 2015
+Current Time: 40 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans, Maria, Felix] => Amount: 3
+Passenger downstairs: [Maria] => Amount: 1
+Passengers upstairs: [Hans, Felix] => Amount: 2
+Average wait time: 1.5 seconds
+Total driving time: 6 seconds
+Total idle time: 34 seconds
+Random number T1: 16
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:15:25 CEST 2015
+Current Time: 45 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans, Maria, Felix] => Amount: 3
+Passenger downstairs: [Maria] => Amount: 1
+Passengers upstairs: [Hans, Felix] => Amount: 2
+Average wait time: 1.5 seconds
+Total driving time: 6 seconds
+Total idle time: 39 seconds
+Random number T1: 16
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:15:30 CEST 2015
+Current Time: 50 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans, Maria, Felix] => Amount: 3
+Passenger downstairs: [Maria] => Amount: 1
+Passengers upstairs: [Hans, Felix] => Amount: 2
+Average wait time: 1.5 seconds
+Total driving time: 6 seconds
+Total idle time: 44 seconds
+Random number T1: 16
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:15:35 CEST 2015
+Current Time: 55 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Hans, Maria, Felix] => Amount: 3
+Passenger downstairs: [Maria] => Amount: 1
+Passengers upstairs: [Hans, Felix] => Amount: 2
+Average wait time: 1.5 seconds
+Total driving time: 6 seconds
+Total idle time: 49 seconds
+Random number T1: 16
+Random number T2: 36
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:15:55 CEST 2015
+Current Time: 5 seconds
+Current Floor: 0
+Current Passenger: NO ONE!
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 0.0 seconds
+Total driving time: 0 seconds
+Total idle time: 5 seconds
+Random number T1: 12
+Random number T2: 5
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:16:00 CEST 2015
+Current Time: 10 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Felix] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Felix] => Amount: 1
+Average wait time: 1.0 seconds
+Total driving time: 1 seconds
+Total idle time: 9 seconds
+Random number T1: 12
+Random number T2: 19
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:17:45 CEST 2015
+Current Time: 5 seconds
+Current Floor: 1
+Current Passenger: Person 0
+Passenger History: NO ONE did travel yet!
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: NO ONE upstairs yet!
+Average wait time: 3.0 seconds
+Total driving time: 3 seconds
+Total idle time: 2 seconds
+Random number T1: 12
+Random number T2: 37
+==============================================
+==============================================
+Timestamp: Sat Jun 27 15:17:50 CEST 2015
+Current Time: 10 seconds
+Current Floor: 1
+Current Passenger: NO ONE!
+Passenger History: [Person 0] => Amount: 1
+Passengers downstairs: NO ONE downstairs yet!
+Passengers upstairs: [Person 0] => Amount: 1
+Average wait time: 3.0 seconds
+Total driving time: 3 seconds
+Total idle time: 7 seconds
+Random number T1: 12
+Random number T2: 37
+==============================================
